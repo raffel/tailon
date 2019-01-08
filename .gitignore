@@ -28,3 +28,6 @@ node_modules/
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Build artifact
+tailon_linux_amd64.tar.gz
